@@ -51,12 +51,24 @@ background: green;
 
 }
 
+#links{
+    align-items: stretch;
+}
+
+li {
+    height: 20px;
+    width: 40px;
+    background-color: brown;
+
+}
 
 #unordered{
     display: flex;
     flex-direction: row;
     list-style-type: none;
     justify-content: space-between;
+    align-items: center;
+    height: 100%;
 }
 
 
