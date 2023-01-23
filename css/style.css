@@ -33,34 +33,33 @@ width: 100px;
 height: 70px;
 background: green;
 }
+/* test */
 
 #links {
     height: 70px;
     width: 500px;
     background-color: rgb(247, 99, 99);
-
 }
+/* test */
 
 #login {
     height: 70px;
     width: 100px;
     background-color: rgb(245, 65, 245);
-
-
-
-
 }
+/* test */
 
 #links{
     align-items: stretch;
 }
+/* test */
 
 li {
     height: 20px;
     width: 40px;
     background-color: brown;
-
 }
+/* test */
 
 #unordered{
     display: flex;
@@ -70,5 +69,23 @@ li {
     align-items: center;
     height: 100%;
 }
+/* test */
 
+
+#header-centered {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+/* test */
+
+
+.header-sons{
+    width: 800px;
+    height:80px;
+    margin: auto;
+    border: 1px solid black;
+
+}
 
