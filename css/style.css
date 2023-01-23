@@ -95,3 +95,16 @@ li {
 }
 
 
+#buttons-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.button-1-2 {
+    height: 20px;
+    width: 80px;
+}
+
