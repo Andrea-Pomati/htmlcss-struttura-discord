@@ -113,12 +113,12 @@ li {
 /* test */
 
 
-#section-centered-1 {
+.section-centered-1 {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid black;
-    height: 400px;
+    height: 800px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -127,13 +127,13 @@ li {
 
 
 
-#img-1{
+.img-1{
         height: 300px;
         width: 300px;
         background-color: brown;
     }
 
-#h2-p-1 {
+.h2-p {
     height: 300px;
     width: 300px;
     background-color: brown;
@@ -147,7 +147,43 @@ li {
     gap: 10px;
 }
 
-#prima-sezione {
-   
+.img-2{
+    height: 300px;
+    width: 600px;
+    background-color: brown;
+}
+
+.h2-p-2 {
+    height: 100px;
+    width: 600px;
+    background-color: brown;
+}
+
+
+.section-centered-2 {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#avventura  {
+    height: 100px;
+    width: 600px;
+    background-color: brown;
+
+
+}
+
+#scarica {
+    height: 100px;
+    width: 600px;
+    background-color: brown;
 }
 
